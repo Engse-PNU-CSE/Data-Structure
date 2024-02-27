@@ -99,7 +99,7 @@ int main() {
     else cout<<"not Empty"<<endl;
 
     while(!b.IsEmpty()) {
-        cout<<b.Element()<<endl;
+ //       cout<<b<<endl;
         b.Pop();
     }
     system("pause");
